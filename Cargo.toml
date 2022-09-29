@@ -1,5 +1,5 @@
 [package]
-name = "pipeviewer"
+name = "pipeviewer-exercise"
 version = "0.1.0"
 authors = ["SHA888 <kresnasucandra@gmail.com>"]
 edition = "2021"
